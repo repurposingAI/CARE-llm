@@ -15,7 +15,7 @@ CARE-LLM is a knowledge-graph-augmented LLM framework designed to improve drugâ€
 
 You can download all required datasets and precomputed embeddings from the following link:
 
-**[Download Dataset (Google Drive)]([PUT_YOUR_DRIVE_LINK_HERE](https://drive.google.com/file/d/1zW8sEGl3aGtwdIGzgAT18iw_PyE9rJPd/view?usp=sharing))**
+**[Download Dataset (Google Drive)]([[PUT_YOUR_DRIVE_LINK_HERE](https://drive.google.com/file/d/1zW8sEGl3aGtwdIGzgAT18iw_PyE9rJPd/view?usp=sharing)]())**
 
 Please download the archive and place the files in the appropriate folders as described below.
 

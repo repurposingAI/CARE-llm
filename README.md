@@ -25,14 +25,14 @@ Please download the archive and place the files in the appropriate folders as de
 ## Usage
 
 1. **Prepare the datasets:**
-   - Place the complete DRKG and its `Entity_embeddings.pkl` in:  
-     `dataset/drkg-complet/`
+   - Place the complete DRKG (in a .txt file) and its `Entity_embeddings.pkl` in:  
+     `dataset/DRKG/`
    - Place the filtered subgraph (SubDRKG) and its corresponding `Entity_embeddings.pkl` in:  
-     `dataset/subDRKG/`
+     `dataset/SUBDRKG/`
    - Place the evaluation/test dataset and `keyword_embeddings.pkl` in:  
      `dataset/test/`
 
-   **Note:** The folder `embedding/` contains `entity-embedding-tsv.py`, which is responsible for generating embeddings for:
+   **Note:** The folder `DRKG-embedding/` contains `entity-embedding-tsv.py`, which is responsible for generating embeddings for:
    - Knowledge graph entities, and  
    - Query entities (drug/disease/protein names)  
    

@@ -32,7 +32,7 @@ Please download the archive and place the files in the appropriate folders as de
    - Place the evaluation/test dataset and `keyword_embeddings.pkl` in:  
      `dataset/test/`
 
-   **Note:** The folder `embedding/` contains `embedding.py`, which is responsible for generating embeddings for:
+   **Note:** The folder `embedding/` contains `entity-embedding-tsv.py`, which is responsible for generating embeddings for:
    - Knowledge graph entities, and  
    - Query entities (drug/disease/protein names)  
    

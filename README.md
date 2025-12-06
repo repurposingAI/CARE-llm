@@ -49,50 +49,37 @@ python main.py
 
 # Results: Impact of DRKG Filtering on CARE-LLM Performance
 
-This section presents the accuracy of CARE-LLM for **cold drug** and **cold disease** predictions using:
-- The **full DRKG** (unfiltered knowledge graph)
-- The **filtered DRKG** (KG cleaned and reduced based on task-relevant entities)
+This section presents the accuracy of CARE-LLM for cold drug and cold disease predictions using:
+- the full DRKG (unfiltered knowledge graph)
+- the filtered DRKG (knowledge graph reduced to task-relevant biomedical entities)
 
-Evaluations are performed under different **LLM sampling temperatures** (0.1, 0.3, 0.6).
-
----
+Evaluations are performed under different LLM sampling temperatures (0.1, 0.3, 0.6).
 
 ## Understanding the Temperature of the LLM
-The **temperature** controls the randomness of the LLM:
-- **Low temperature (0.1)** : deterministic, stable predictions  
-- **Medium temperature (0.3)** : balanced randomness  
-- **High temperature (0.6)** : more diverse but less accurate predictions  
+The temperature parameter controls the randomness of the LLM:
+- Low temperature (0.1) produces stable and deterministic predictions.
+- Medium temperature (0.3) introduces moderate variability.
+- High temperature (0.6) generates more diverse outputs but decreases accuracy.
 
-Lower temperatures generally produce more reliable outputs for biomedical tasks.
-
----
+Lower temperatures generally give more reliable predictions in biomedical settings.
 
 ## DRKG vs. Filtered DRKG
-### **DRKG (full graph)**
-- Contains a very large number of heterogeneous biomedical nodes.
-- High noise and many irrelevant entities for drug–disease task.
-- Leads to **lower accuracy**, especially at higher temperatures.
 
-### **Filtered DRKG**
-- Only keeps the **biologically relevant** subsets:  
-  drug, disease, gene, and curated relations.
-- Removes noise while keeping core biomedical structure.
-- Produces **significantly higher accuracy**, especially for cold disease predictions.
+### DRKG (full graph)
+The full DRKG contains many heterogeneous biomedical entities, including several that are not directly relevant to drug-target or drug–disease prediction.  
+This increases noise and leads to lower overall accuracy, especially when the LLM operates at higher temperatures.
 
----
+### Filtered DRKG
+The filtered version retains only entities directly relevant to the task (drug, disease, protein, gene, and curated relations).  
+By removing noisy or irrelevant nodes, the model produces higher accuracy and more stable predictions.
 
 ## Accuracy Table
 
-| **Setting** | **Temp (0.1)** | **Temp (0.3)** | **Temp (0.6)** |
-|-------------|----------------|----------------|----------------|
-| **DRKG** ||||
-| Cold Drug    | 0.75 | 0.63 | 0.50 |
-| Cold Disease | 0.94 | 0.85 | 0.79 |
-| **Filtered DRKG** ||||
-| Cold Drug    | 0.84 | 0.79 | 0.59 |
-| Cold Disease | **0.97** | **0.95** | **0.775** |
-
----
-
-
-
+| Setting        | Temp (0.1) | Temp (0.3) | Temp (0.6) |
+|----------------|------------|------------|------------|
+| **DRKG**       |            |            |            |
+| Cold Drug      | 0.75       | 0.63       | 0.50       |
+| Cold Disease   | 0.94       | 0.85       | 0.79       |
+| **Filtered DRKG** |        |            |            |
+| Cold Drug      | 0.84       | 0.79       | 0.59       |
+| Cold Disease   | 0.97       | 0.95       | 0.775      |

@@ -33,8 +33,8 @@ Please download the archive and place the files in the appropriate folders as de
      `dataset/test/`
 
    **Note:** The folder `DRKG-embedding/` contains `entity-embedding-tsv.py`, which is responsible for generating embeddings for:
-   - Knowledge graph entities, and  
-   - Query entities (drug/disease/protein names)  
+   - Knowledge graph entities.
+   - Query entities (drug/disease/protein names).
    
    These embeddings are used for similarity-based alignment.
 

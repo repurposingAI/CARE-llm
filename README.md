@@ -4,6 +4,9 @@ CARE-LLM is a knowledge-graph-augmented LLM framework designed to improve drugâ€
 
 ## Overall framework
 
+![description](https://github.com/repurposingAI/CARE-llm/blob/main/DTI.png)
+
+
 
 ## Requirements
 

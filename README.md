@@ -45,3 +45,54 @@ Please download the archive and place the files in the appropriate folders as de
 2. **Run the main pipeline:**
 ```bash
 python main.py
+
+
+# Results: Impact of DRKG Filtering on CARE-LLM Performance
+
+This section presents the accuracy of CARE-LLM for **cold drug** and **cold disease** predictions using:
+- The **full DRKG** (unfiltered knowledge graph)
+- The **filtered DRKG** (KG cleaned and reduced based on task-relevant entities)
+
+Evaluations are performed under different **LLM sampling temperatures** (0.1, 0.3, 0.6).
+
+---
+
+## Understanding the Temperature of the LLM
+The **temperature** controls the randomness of the LLM:
+- **Low temperature (0.1)** : deterministic, stable predictions  
+- **Medium temperature (0.3)** : balanced randomness  
+- **High temperature (0.6)** : more diverse but less accurate predictions  
+
+Lower temperatures generally produce more reliable outputs for biomedical tasks.
+
+---
+
+## DRKG vs. Filtered DRKG
+### **DRKG (full graph)**
+- Contains a very large number of heterogeneous biomedical nodes.
+- High noise and many irrelevant entities for drug–disease task.
+- Leads to **lower accuracy**, especially at higher temperatures.
+
+### **Filtered DRKG**
+- Only keeps the **biologically relevant** subsets:  
+  drug, disease, gene, and curated relations.
+- Removes noise while keeping core biomedical structure.
+- Produces **significantly higher accuracy**, especially for cold disease predictions.
+
+---
+
+## Accuracy Table
+
+| **Setting** | **Temp (0.1)** | **Temp (0.3)** | **Temp (0.6)** |
+|-------------|----------------|----------------|----------------|
+| **DRKG** ||||
+| Cold Drug    | 0.75 | 0.63 | 0.50 |
+| Cold Disease | 0.94 | 0.85 | 0.79 |
+| **Filtered DRKG** ||||
+| Cold Drug    | 0.84 | 0.79 | 0.59 |
+| Cold Disease | **0.97** | **0.95** | **0.775** |
+
+---
+
+
+

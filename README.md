@@ -107,5 +107,7 @@ Once access is granted, you must insert your Hugging Face token into the file ma
 ```
 from huggingface_hub import login
 login("your_token")
+```
+
 
 ## Output Files (Located in the result Folder)

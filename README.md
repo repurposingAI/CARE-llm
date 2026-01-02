@@ -60,7 +60,7 @@ Please download the archive and place the files in the appropriate folders as de
 
 ### Installation Guide
 
-To get started with our approach CARE-llm, follow the steps below. The execution was tested on a uCloud server running Linux and requires at least 10 GB of available RAM.
+To get started with our approach CARE-llm, follow the steps below. The execution was tested on a uCloud server running Linux and requires at least 32 GB of available RAM.
 
 1. Clone the repository
 

@@ -62,6 +62,28 @@ Please download the archive and place the files in the appropriate folders as de
 
 The fine_tuning directory contains the script alpaca.py, which provides the code for performing Alpaca-style fine-tuning on the model BioMistral/BioMistral-7B. This fine-tuning process follows the self-instruct methodology to adapt the base model to biomedical question-answering tasks. In addition, the directory includes the notebook chain-of-thought-ft.ipynb, which implements a fine-tuning pipeline for the model meta-llama/Llama-3.3-70B-Instruct, specifically designed to incorporate chain-of-thought reasoning during training.
 
+## Authentication & Model Access Setup
+
+To run the Drug Disease interaction prediction (main.py) script, follow these steps to authenticate and gain access to the required LLMs:
+
+Hugging Face Token Access (for BioMistral models)
+To access BioMistral/BioMistral-7B:
+
+Create a Hugging Face account at https://huggingface.co
+
+Go to your settings → Access Tokens and generate a token
+
+Important: You must request access to the following models:
+
+BioMistral/BioMistral-7B
+
+Once access is granted, you must insert your Hugging Face token into the file main.py by modifying the following code:
+
+```
+from huggingface_hub import login
+login("your_token")
+```
+
 
 3. **Run the main pipeline:**
 ```bash

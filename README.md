@@ -58,6 +58,31 @@ Please download the archive and place the files in the appropriate folders as de
    
    These embeddings are used for similarity-based alignment.
 
+### Installation Guide
+
+To get started with our approach CARE-llm, follow the steps below. The execution was tested on a uCloud server running Linux and requires at least 10 GB of available RAM.
+
+1. Clone the repository
+
+```
+git clone https://github.com/repurposingAI/CARE-llm.git
+cd CARE-llm
+```
+
+2. Install Python dependencies
+
+Before running the code, make sure to install all required libraries listed in the Requirements section. Once these are installed, proceed with the main execution.
+
+3. Run the prediction script
+
+After setting up the environment and dependencies, you can directly launch the Drug Disease interaction prediction task using:
+
+```
+python3 main.py
+```
+
+⚠️ Make sure you have added your Hugging Face access token, and obtained permission to use specific model (BioMistral/BioMistral-7B). See the section Authentication & Model Access Setup for more details.
+
 ## The process of fine-tuning our large language model using Alpaca
 
 The fine_tuning directory contains the script alpaca.py, which provides the code for performing Alpaca-style fine-tuning on the model BioMistral/BioMistral-7B. This fine-tuning process follows the self-instruct methodology to adapt the base model to biomedical question-answering tasks. In addition, the directory includes the notebook chain-of-thought-ft.ipynb, which implements a fine-tuning pipeline for the model meta-llama/Llama-3.3-70B-Instruct, specifically designed to incorporate chain-of-thought reasoning during training.

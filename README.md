@@ -107,7 +107,3 @@ Once access is granted, you must insert your Hugging Face token into the file ma
 ```
 from huggingface_hub import login
 login("your_token")
-```
-
-| Cold Drug      | 0.84       | 0.79       | 0.59       |
-| Cold Disease   | 0.97       | 0.95       | 0.775      |

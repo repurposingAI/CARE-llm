@@ -13,6 +13,7 @@ CARE-LLM is a knowledge-graph-augmented LLM framework designed to improve drugâ€
 ### For Running main.py
 To run the Drug Disease interaction prediction pipeline, please ensure the following Python dependencies are installed:
 
+```
 - Python 3.9+
 - accelerate 0.27.0
 - gensim 4.3.1
@@ -28,6 +29,7 @@ To run the Drug Disease interaction prediction pipeline, please ensure the follo
 - sentencepiece 0.1.99
 - torch 2.9.1
 - transformers 4.57.3
+```
 
 ## Dataset Access
 

@@ -83,7 +83,7 @@ python3 main.py
 
 ⚠️ Make sure you have added your Hugging Face access token, and obtained permission to use specific model (BioMistral/BioMistral-7B). See the section Authentication & Model Access Setup for more details.
 
-## The process of fine-tuning our large language model using Alpaca
+## The process of fine-tuning our large language model
 
 The fine_tuning directory contains the script alpaca.py, which provides the code for performing Alpaca-style fine-tuning on the model BioMistral/BioMistral-7B. This fine-tuning process follows the self-instruct methodology to adapt the base model to biomedical question-answering tasks. In addition, the directory includes the notebook chain-of-thought-ft.ipynb, which implements a fine-tuning pipeline for the model meta-llama/Llama-3.3-70B-Instruct, specifically designed to incorporate chain-of-thought reasoning during training.
 

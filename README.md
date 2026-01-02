@@ -10,6 +10,8 @@ CARE-LLM is a knowledge-graph-augmented LLM framework designed to improve drugâ€
 
 ## Requirements
 
+###For Running main.py
+
 - Python 3.9+
 - PyTorch
 - Transformers

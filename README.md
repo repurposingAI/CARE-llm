@@ -60,7 +60,7 @@ Please download the archive and place the files in the appropriate folders as de
 
 ## The process of fine-tuning our large language model using Alpaca
 
-The fine_tuning directory contains the script alpaca.py, which provides the code for performing Alpaca-style fine-tuning on the model BioMistral/BioMistral-7B. This fine-tuning process follows the self-instruct methodology to adapt the base model to biomedical question-answering tasks.
+The fine_tuning directory contains the script alpaca.py, which provides the code for performing Alpaca-style fine-tuning on the model BioMistral/BioMistral-7B. This fine-tuning process follows the self-instruct methodology to adapt the base model to biomedical question-answering tasks. In addition, the directory includes the notebook chain-of-thought-ft.ipynb, which implements a fine-tuning pipeline for the model meta-llama/Llama-3.3-70B-Instruct, specifically designed to incorporate chain-of-thought reasoning during training.
 
 
 3. **Run the main pipeline:**

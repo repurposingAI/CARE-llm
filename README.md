@@ -62,6 +62,12 @@ Please download the archive and place the files in the appropriate folders as de
 ```bash
 python main.py
 
+## The process of fine-tuning our large language model using Alpaca
+
+The fine_tuning directory contains the script alpaca.py, which provides the code for performing Alpaca-style fine-tuning on the model BioMistral/BioMistral-7B. This fine-tuning process follows the self-instruct methodology to adapt the base model to biomedical question-answering tasks.
+
+
+
 
 # Results: Impact of DRKG Filtering on CARE-LLM Performance
 

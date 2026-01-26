@@ -35,7 +35,7 @@ To run the Drug Disease interaction prediction pipeline, please ensure the follo
 
 You can download all required datasets and precomputed embeddings from the following link:
 
-  **[Download Dataset (Google Drive)](https://drive.google.com/file/d/13GLX60GR7vxBrFFcTttIn6HPWG3yvcgN/view?usp=sharing)**
+  **[Download Dataset (Google Drive)](https://drive.google.com/file/d/1POPQ_QDP2tbZJRKUwsQsX5QK4gczScUQ/view?usp=sharing)**
 
 
 Please download the archive and place the files in the appropriate folders as described below.
@@ -117,4 +117,6 @@ All negative samples, along with all interactions found in these databases and t
 
 **[Download Dataset (Google Drive)](https://drive.google.com/file/d/1iPL1RdWEmzP1YTfYI6CBhCZIiBcyntiu/view?usp=sharing)**
 
-## Output Files (Located in the result Folder)
+## CARE-LLM Output Example
+
+The result directory contains the file care_llm_result.jsonl, which provides a representative sample of CARE-LLM’s generated outputs. This file illustrates how CARE-LLM processes a drug–disease interaction query by combining structured knowledge graph evidence with controlled reasoning to produce a final binary decision (Yes/No) accompanied by a concise biomedical rationale. Each entry includes the input question, the model’s generated response, the preserved reasoning context (including neighbor-based evidence and constraints), and the final prediction. The example shown in this file demonstrates the full inference pipeline of CARE-LLM, highlighting its reasoning transparency and evidence-aware decision-making.

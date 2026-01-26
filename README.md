@@ -35,7 +35,7 @@ To run the Drug Disease interaction prediction pipeline, please ensure the follo
 
 You can download all required datasets and precomputed embeddings from the following link:
 
-  **[Download Dataset (Google Drive)](https://drive.google.com/file/d/1zW8sEGl3aGtwdIGzgAT18iw_PyE9rJPd/view?usp=sharing)**
+  **[Download Dataset (Google Drive)](https://drive.google.com/file/d/13GLX60GR7vxBrFFcTttIn6HPWG3yvcgN/view?usp=sharing)**
 
 
 Please download the archive and place the files in the appropriate folders as described below.

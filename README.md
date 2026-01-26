@@ -1,4 +1,4 @@
-# CARE-LLM: Overcoming Data Quality and Structural Biases for Reliable Drug-Disease Interaction Prediction
+# CARE-LLM: Overcoming Data Quality and Structural Biases in Knowledge Graphs for Reliable Drug Repurposing
 
 CARE-LLM is a knowledge-graph-augmented LLM framework designed to improve drug–disease interaction prediction by addressing data quality issues and structural biases in biomedical knowledge graphs. It leverages a filtered, task-specific subgraph of DRKG to provide high-confidence, context-aware reasoning for LLMs.
 

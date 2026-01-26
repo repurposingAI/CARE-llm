@@ -115,6 +115,6 @@ The verification directory contains the file verification.py, which implements t
 
 All negative samples, along with all interactions found in these databases and the corresponding verification results produced by the code, are available at the following link:
 
-**[Download Dataset (Google Drive)](https://drive.google.com/file/d/1zW8sEGl3aGtwdIGzgAT18iw_PyE9rJPd/view?usp=sharing)**
+**[Download Dataset (Google Drive)](https://drive.google.com/file/d/1iPL1RdWEmzP1YTfYI6CBhCZIiBcyntiu/view?usp=sharing)**
 
 ## Output Files (Located in the result Folder)

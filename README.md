@@ -109,5 +109,12 @@ from huggingface_hub import login
 login("your_token")
 ```
 
+## Negative Sample Verification Across External Databases
+
+The verification directory contains the file verification.py, which implements the code used to verify that the negative samples are absent from multiple authoritative biomedical databases. Specifically, the script checks whether the generated negative drug–disease (and drug–drug) interactions appear in any of the following resources: KEGG, AACT, ChEMBL, CTD, DrugCentral, Open Targets, SIDER, and ClinicalTrials.gov.
+
+All negative samples, along with all interactions found in these databases and the corresponding verification results produced by the code, are available at the following link:
+
+**[Download Dataset (Google Drive)](https://drive.google.com/file/d/1zW8sEGl3aGtwdIGzgAT18iw_PyE9rJPd/view?usp=sharing)**
 
 ## Output Files (Located in the result Folder)

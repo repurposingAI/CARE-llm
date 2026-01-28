@@ -125,3 +125,8 @@ The result directory contains the file care_llm_result.jsonl, which provides a r
 
 We used the VitaGraph method to diagnose our knowledge graph (DRKG). For more details, see:
 **(https://github.com/GiDeCarlo/VitaGraph)**
+
+## Metapath-Based Filtering of the Knowledge Graph
+
+We applied metapath-based filtering to our denoised knowledge graph using the approach described in : **(https://github.com/fratajcz/metafilter-apply)**
+

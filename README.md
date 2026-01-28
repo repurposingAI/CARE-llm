@@ -120,3 +120,8 @@ All negative samples, along with all interactions found in these databases and t
 ## CARE-LLM Output Example
 
 The result directory contains the file care_llm_result.jsonl, which provides a representative sample of CARE-LLM’s generated outputs. This file illustrates how CARE-LLM processes a drug–disease interaction query by combining structured knowledge graph evidence with controlled reasoning to produce a final binary decision (Yes/No) accompanied by a concise biomedical rationale. Each entry includes the input question, the model’s generated response, the preserved reasoning context (including neighbor-based evidence and constraints), and the final prediction. The example shown in this file demonstrates the full inference pipeline of CARE-LLM, highlighting its reasoning transparency and evidence-aware decision-making.
+
+## Knowledge Graph Diagnosis
+
+We used the VitaGraph method to diagnose our knowledge graph (DRKG). For more details, see:
+**(https://github.com/GiDeCarlo/VitaGraph)**

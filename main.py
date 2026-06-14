@@ -1453,7 +1453,7 @@ if __name__ == "__main__":
         keyword_embeddings = pickle.load(f2)
 
     output_path = '/home/habes/NotebookProjects/bboi/sadok/GNN-LLM/data/dalk/result/drugbank-name-t1-500.jsonl'
-    input_path = "/home/habes/NotebookProjects/bboi/sadok/GNN-LLM/data/dalk/datasets/test/drugbank-name.txt"
+    input_path = "/home/habes/NotebookProjects/bboi/sadok/GNN-LLM/data/dalk/datasets/test/test1.txt"
 
     with open(input_path, "r", encoding="utf-8") as f:
         lines = f.readlines()

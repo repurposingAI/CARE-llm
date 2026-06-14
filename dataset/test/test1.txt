@@ -1,0 +1,100 @@
+Carbamazepine	Glomerulosclerosis Focal Segmental
+Kojic acid	Albinism Oculocutaneous
+Simvastatin	Multiple Endocrine Neoplasia Type IV
+Clofibrate	Ectrodactyly
+Roflumilast	Manganese Poisoning
+Etodolac	Hyperglycemia
+Colchicine	Atrial Fibrillation
+Cisplatin	Pemphigoid Bullous
+Nitroglycerin	Intracranial Arteriovenous Malformations
+N 6 Aminohexyl 5 Chloro 1 Naphthalenesulfonamide	46 XX Disorders of Sex Development
+Phenobarbital	Diabetes Insipidus Nephrogenic
+Melphalan	Neoplasms Experimental
+Progesterone	Phosphoribosylpyrophosphate Synthetase Superactivity
+Lisinopril	Neovascularization Pathologic
+Tretinoin	Cholangiocarcinoma
+Phenylephrine	Megalancephaly Polymicrogyria Polydactyly Hydrocephalus Syndrome
+Maprotiline	Alzheimer Disease
+Erythromycin	Epilepsy Tonic Clonic
+Paricalcitol	Glomerulonephritis IGA
+Ritonavir	Brain Diseases
+Choline	Hyperphosphatemia
+Zidovudine	Epiphyseal dysplasia multiple 4
+Etoposide	Epidermolysis Bullosa Dystrophica
+Troglitazone	Lipodystrophy Familial Partial
+Fenfluramine	Mood Disorders
+Apomorphine	Microphthalmia Isolated with Coloboma 5
+Letrozole	Neurotoxicity Syndromes
+Levetiracetam	Parkinson Disease
+Valsartan	Silicosis
+Metamizole	Carcinoma Hepatocellular
+Amlodipine	Liver Cirrhosis Experimental
+Geldanamycin	Arterial Occlusive Diseases
+Choline	Heart Defects Congenital
+Alfacalcidol	Echinococcosis
+Nalbuphine	Hepatic Encephalopathy
+Perchlorate	Bone Diseases
+Phenformin	Lymphoma T Cell Cutaneous
+Arachidonic Acid	Multiple Myeloma
+Misoprostol	Turner Syndrome
+Zafirlukast	Acatalasia
+Bromocriptine	Leukemia
+Halothane	Sezary Syndrome
+Trovafloxacin	Oculodentodigital Dysplasia
+Isoflurane	Malignant Hyperthermia
+Reserpine	Heart Diseases
+Uridine 5 Diphosphate	Multiple Myeloma
+Carbamazepine	Kallmann Syndrome
+Balsalazide	Carcinoma Hepatocellular
+Cisplatin	Hemochromatosis type 4
+Methotrexate	Akinetic Mutism
+Acetylcholine	Diabetes Mellitus
+Doxazosin	Brain Neoplasms
+Sucrose	Glycogen Storage Disease Type I
+Prazosin	Leukemia Lymphoma Adult T Cell
+Mitoxantrone	Sick Sinus Syndrome
+Olomoucine	Thyroid Neoplasms
+Phencyclidine	Intrahepatic Cholestasis of Pregnancy
+Menadione	Anemia Sideroblastic
+Menadione	Varicose Veins
+Androstenedione	Pulmonary Fibrosis
+Iron	Coronary Vasospasm
+Chloramphenicol	Neurotoxicity Syndromes
+2 Methoxyestradiol	Parkinson Disease
+Phenobarbital	Optic atrophy polyneuropathy deafness
+Nitroglycerin	Hyperuricemic Nephropathy Familial Juvenile 2
+Orlistat	Neoplasm Recurrence Local
+Fexofenadine	Jaundice Chronic Idiopathic
+Quercetin	Phyllodes Tumor of the Prostate
+Ribavirin	Somatoform Disorders
+Resveratrol	Beckwith Wiedemann Syndrome
+Chlorpropamide	Diabetes Insipidus
+Prostaglandin D2	Diabetic Neuropathies
+Quetiapine	Anemia
+Putrescine	Diabetic Angiopathies
+Vancomycin	Pre Eclampsia
+Estradiol	Aggressive Periodontitis
+Cyclic GMP	Aortic Stenosis Subvalvular
+Simvastatin	Iridogoniodysgenesis dominant type
+Tretinoin	Retinitis Pigmentosa
+Ademetionine	Leukemia Myeloid Acute
+Diethylstilbestrol	Hepatic Adenomas Familial
+Amoxicillin	Neisseriaceae Infections
+Hydrocortisone	Hypersensitivity Delayed
+Lovastatin	Hypercalcemia
+Chloroquine	Glucose Intolerance
+Ouabain	Glucose Intolerance
+Lamivudine	Hypersensitivity Delayed
+Caffeine	Adenomatous Polyposis Coli
+Deferoxamine	Lung Diseases Interstitial
+Bisoprolol	Myocardial Stunning
+Liothyronine	Hyperinsulinemic hypoglycemia familial 3
+Imipramine	Multiple Myeloma
+Acenocoumarol	Adrenocortical Carcinoma
+Ethanol	Glaucoma 1 Open Angle A
+Rofecoxib	Heart Failure
+Pyridostigmine	Adenocarcinoma Clear Cell
+Olomoucine	Small Cell Lung Carcinoma
+Decitabine	Neurotoxicity Syndromes
+Levofloxacin	Carcinoma Renal Cell
+Atenolol	Manganese Poisoning

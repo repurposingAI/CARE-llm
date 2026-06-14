@@ -1,0 +1,100 @@
+Hypokinesia	Levothyroxine
+Shock Cardiogenic	Levodopa
+Intervertebral disc disease	Aluminium
+Sphincter of Oddi Dysfunction	Glucagon
+Rhinitis	Fructose
+Cardiotoxicity	Midomafetamine
+Macular Degeneration	Pentanal
+Alveolar Bone Loss	Arsenic trioxide
+Chemical and Drug Induced Liver Injury	Proguanil
+Obstetric Labor Premature	Polymyxin B
+Anuria	Levonorgestrel
+Schnitzler Syndrome	Metformin
+Pneumonia	DB04077
+Status Epilepticus	Nystatin
+Drug Related Side Effects and Adverse Reactions	NADH
+X Linked Intellectual Disability	Pentanal
+Pain	Alizapride
+Arthritis Juvenile	Vitamin A
+Skin Ulcer	9 10 Deepithio 9 10 Didehydroacanthifolicin
+Airway Obstruction	Metamfetamine
+Kearns Sayre Syndrome	alpha Linolenic acid
+Infections	Guanosine 5 Diphosphate
+Frontometaphyseal dysplasia	Metamfetamine
+Pancytopenia	Cyclic adenosine monophosphate
+Seminoma	Ibandronate
+Cell Transformation Neoplastic	Nitrofural
+Arthritis Experimental	LY 294002
+Oligospermia	Phthalic Acid
+Brain Injuries	Polymyxin B
+Rheumatoid Arthritis Systemic Juvenile	Uridine 5 triphosphate
+Vascular Diseases	Pentanal
+Asthma	Mesoheme
+Colitis	3 Chlorophenol
+Fanconi Syndrome	Cyclosporine
+Polyploidy	1 2 Dihydroxybenzene
+Neuralgia Postherpetic	Moxifloxacin
+Cholestasis	beta D fructofuranose 1 6 bisphosphate
+Arthritis Experimental	3 Hydroxypyruvic Acid
+Asbestosis	Cysteine
+Liver Neoplasms Experimental	Radicicol
+Hypertrophy Right Ventricular	Furosemide
+Hyperhomocysteinemia	Ibandronate
+Status Epilepticus	Calcipotriol
+Infarction	Ardeparin
+Adenocarcinoma	Stanolone
+Infant Premature Diseases	Aluminium
+Hematoma	Acetylsalicylic acid
+Nephrotic Syndrome	Aluminium
+Heart Valve Diseases	Suramin
+Stevens Johnson Syndrome	Methionine
+Thrombocytopenia	Pegfilgrastim
+Burns	Cysteine
+Temporomandibular Joint Disorders	Isoprenaline
+Critical Illness	Levonorgestrel
+Fatty Liver	Baclofen
+Seizures	Conjugated estrogens
+Growth mental deficiency syndrome of Myhre	Glyphosate
+Eye Pain	Dicoumarol
+Osteolysis hereditary multicentric	Zoledronic acid
+Infertility Female	Folic acid
+Alopecia	NADH
+Foodborne Diseases	Ethinylestradiol
+Alcoholism	Fructose
+Hypotension	1 2 Dihydroxybenzene
+Bone Diseases Developmental	Arsenic trioxide
+Radiation Injuries	Cyclic adenosine monophosphate
+Methylmalonic acidemia	Glucosamine
+Phencyclidine Abuse	Acetylsalicylic acid
+Vitiligo	Isoprenaline
+Diabetic Cardiomyopathies	Levonorgestrel
+Autistic Disorder	Glucosamine 6 Phosphate
+Brain Ischemia	P Nitrophenol
+Abnormalities Drug Induced	Famotidine
+Fibrosis	Cyclosporine
+Lymphopenia	Fructose
+Intestinal Polyps	Bacitracin
+Ischiopatellar dysplasia	Ethinylestradiol
+Psoriasis	Lactose
+Aortic Dissection	Diatrizoate
+Sexual Dysfunction Physiological	Methionine
+Arthritis	Penicillamine
+Bipolar Disorder	Nicotinamide
+Dementia	Nicotinamide
+Down Syndrome	Glucosamine
+Hyponatremia	Beta D Glucose
+Weight Gain	Cyclic adenosine monophosphate
+Dyspepsia	Penicillamine
+Appendicitis	Furosemide
+Deafness	Bacitracin
+Lipoma	Folic acid
+Sleep Wake Disorders	Acetylsalicylic acid
+Hyperalgesia	Botulinum toxin type A
+Hypothermia	Midomafetamine
+Heart Valve Diseases	Aminophenazone
+Burns Chemical	Ethinylestradiol
+Precursor B Cell Lymphoblastic Leukemia Lymphoma	Cyclosporine
+Acquired Immunodeficiency Syndrome	trans urocanic acid
+Weight Loss	Iron Dextran
+HIV Wasting Syndrome	4 Methyl 1 2 Benzenediol
+Sleep Deprivation	Beta D Glucose
